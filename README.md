@@ -115,21 +115,6 @@ Also, check our guide on [How to publish a plugin in jQuery Plugin Registry](htt
 **Note:** The jQuery Plugin Registry is in read-only mode. New plugin releases will not be processed.
 jQuery recommends moving to [npm](https://www.npmjs.com/), using ["jquery-plugin"](https://www.npmjs.com/browse/keyword/jquery-plugin) as the keyword in your package.json. See [how to publish into npm registry](https://gist.github.com/coolaj86/1318304).
 
-## Team
-
-jQuery Boilerplate was made with love by these guys and a bunch of awesome [contributors](https://github.com/jquery-boilerplate/boilerplate/graphs/contributors).
-
-[![Zeno Rocha](http://gravatar.com/avatar/e190023b66e2b8aa73a842b106920c93?s=70)](http://zenorocha.com) | [![Addy Osmani](http://gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275?s=70)](http://addyosmani.com) | [![Helder Santana](http://gravatar.com/avatar/63fb620ee7d14fc91030d4349d189b3e?s=70)](http://heldr.com)
---- | --- | --- | --- | --- | --- | ---
-[Zeno Rocha](http://zenorocha.com) | [Addy Osmani](http://addyosmani.com) | [Helder Santana](http://heldr.com)
-
-## Contributing
-
-Check [CONTRIBUTING.md](https://github.com/jquery-boilerplate/boilerplate/blob/master/CONTRIBUTING.md) for more information.
-
-## History
-
-Check [Releases](https://github.com/jquery-boilerplate/jquery-boilerplate/releases) for detailed changelog.
 
 ## License
 
